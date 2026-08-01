@@ -43,7 +43,7 @@ export const profile = {
     "Hello%20Yassine,%20I%20saw%20your%20portfolio%20and%20I%20would%20like%20to%20contact%20you.",
   summary:
     "Computer engineering student with a DUT and current Bachelor studies, focused on full-stack development, API design, data analysis, testing, and maintainable software systems.",
-  cvHref: "/CV.pdf"
+  cvHref: "/cv.pdf"
 };
 
 export const whatsappHref = `https://wa.me/${profile.phoneRaw}?text=${profile.whatsappMessage}`;
